@@ -15,7 +15,7 @@ trend/seasonality
 Evaluate the model predictions against test data
 6. Create teh final model and predict future data and plot it
 ## PROGRAM:
-```
+```python
 import pandas as pd
 import numpy as np # Needed for np.sqrt (RMSE calculation)
 import matplotlib.pyplot as plt
